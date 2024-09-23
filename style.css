@@ -27,7 +27,7 @@ h3 {
   color: #000000;
   text-transform: uppercase;
   font-size: 16px;
-  border-radius: 5px;
+  border-radius: 7px;
   padding: 5px;
   font-weight: 900;
   letter-spacing: 5px;  
@@ -42,7 +42,7 @@ h3 {
 svg{
 width: 30px;
 float: left;
-border-radius: 5px;
+border-radius: 7px;
 background-color: #ffffff;
 padding: 10px;
 fill: #000000;
